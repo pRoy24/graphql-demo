@@ -3,8 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "apollo-boost": "^0.4.3",
-    "apollo-link-context": "^1.0.18",
     "bootstrap": "^4.3.1",
     "faunadb": "*",
     "graphql": "^14.4.2",
